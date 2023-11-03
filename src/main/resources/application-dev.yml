@@ -1,1 +1,3 @@
-
+spring:
+  kafka:
+    bootstrap-servers: ㅇㄷㅍ-broker:9092
